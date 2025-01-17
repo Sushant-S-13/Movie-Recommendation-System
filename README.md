@@ -16,3 +16,6 @@ A web-based Movie recommender system built using Streamlit. This project suggest
 
 ## User Interface
 ![image](https://github.com/user-attachments/assets/7230cc44-55c3-4a21-8c55-7d2367d7c953)
+
+## Link to the web application
+Streamlit App : https://movie-recommendation-system-sushant.streamlit.app/
